@@ -8,6 +8,7 @@ Added Scoreboard attributes Matches, Attempts, Ratio, and League Score
 
 placed on football field Background
 
-Added new game button (not connected yet)
+[Added new game button (not connected yet)]**** completed and connected
+
 
 Added all matched cards class to change display
